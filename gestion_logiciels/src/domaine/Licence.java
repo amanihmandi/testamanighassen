@@ -26,7 +26,7 @@ public class Licence {
 	}
 
 
-	public Logiciel getLogiciel() {
+	public Logiciel getLogicielt() {
 		return logiciel;
 	}
 
