@@ -38,7 +38,7 @@ public class Licence {
 	public void setMachine(Machine machine) {
 		this.machine = machine;
 	}
-	
+	aaaaaaaaaaaaaaaaaaaaaa
 	
 	
 	
